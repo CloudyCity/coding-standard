@@ -4,7 +4,7 @@ This standard is specify use to solve the problem which mentioned in  [squizlabs
 
 ## Install
 ```shell
-composer require cloudycity/coding-standard
+composer require cloudycity/coding-standard --dev
 ```
 
 ## Use
